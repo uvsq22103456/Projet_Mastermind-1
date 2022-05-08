@@ -1,4 +1,7 @@
 # Projet_Mastermind
+Groupe 6:
+Samia SAID HASSANI
+Patrick LAWSON
 Mastermind
 
 Le premier joueur défini la combinaison en cliquant sur les boutons de couleurs, il peut supprimer le dernier element
